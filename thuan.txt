@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-abcd-thuan1
-=======
-abcd-thuan2
->>>>>>> Thuan2 changing thuantxt
